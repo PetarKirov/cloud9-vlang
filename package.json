@@ -1,0 +1,14 @@
+{
+    "name": "ext.cloud9-vlang",
+    "version": "0.0.1",
+    "main": "linereport-vlang-ext.js",
+    "private": true,
+    "plugin": {
+        "provides": [
+            "ext.cloud9-vlang"
+        ],
+        "consumes": [
+            "client-plugins"
+        ]
+    }
+}
